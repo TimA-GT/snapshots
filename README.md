@@ -32,7 +32,7 @@ report OR add an open source player to a HTML page customers visit as opposed to
 
 ![14second](https://user-images.githubusercontent.com/88738613/141387631-4b647453-3e87-4767-8425-949e0c86f80d.jpg)
 
-![gif2](https://apps-ads-manager-report-snapshots.s3.amazonaws.com/gif2.gif)
+
 
 ## Random commercial #2 
 
@@ -46,7 +46,7 @@ report OR add an open source player to a HTML page customers visit as opposed to
 
 ![14second](https://user-images.githubusercontent.com/88738613/141388466-26fb1f06-8bd8-42ff-b3c1-5c26d622c89b.jpg)
 
-![gif1](https://apps-ads-manager-report-snapshots.s3.amazonaws.com/gif1.gif)
+
 
 ## Random commercial #3
 
@@ -60,5 +60,14 @@ report OR add an open source player to a HTML page customers visit as opposed to
 
 ![14second](https://user-images.githubusercontent.com/88738613/141388927-87a697e8-269d-4a1c-8787-7740c309c4a6.jpg)
 
+## Gifs
 
-![gif](https://apps-ads-manager-report-snapshots.s3.amazonaws.com/gif.gif)
+Too large for github to playback on site.  View in code editor or use download links below
+![14second](https://apps-ads-manager-report-snapshots.s3.amazonaws.com/gif2.gif)
+![14second](https://apps-ads-manager-report-snapshots.s3.amazonaws.com/gif1.gif)
+![14second](https://apps-ads-manager-report-snapshots.s3.amazonaws.com/gif.gif)
+
+### Download links for .gifs
+https://apps-ads-manager-report-snapshots.s3.amazonaws.com/gif.gif
+https://apps-ads-manager-report-snapshots.s3.amazonaws.com/gif1.gif
+https://apps-ads-manager-report-snapshots.s3.amazonaws.com/gif2.gif
