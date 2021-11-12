@@ -62,12 +62,17 @@ report OR add an open source player to a HTML page customers visit as opposed to
 
 ## Gifs
 
-Too large for github to playback on site.  View in code editor or use download links below
 ![14second](https://apps-ads-manager-report-snapshots.s3.amazonaws.com/gif2.gif)
 ![14second](https://apps-ads-manager-report-snapshots.s3.amazonaws.com/gif1.gif)
 ![14second](https://apps-ads-manager-report-snapshots.s3.amazonaws.com/gif.gif)
 
+The .gifs above are too large to playback on GitHub.  View this file in a code editor or use download links below
+
 ### Download links for .gifs
 https://apps-ads-manager-report-snapshots.s3.amazonaws.com/gif.gif
+
+
 https://apps-ads-manager-report-snapshots.s3.amazonaws.com/gif1.gif
+
+
 https://apps-ads-manager-report-snapshots.s3.amazonaws.com/gif2.gif
